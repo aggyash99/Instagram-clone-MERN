@@ -1,8 +1,8 @@
 module.exports={
-    MONGOURI : "mongodb+srv://dbyash:dwPpmF1gV1yItcgB@cluster0-iuosf.gcp.mongodb.net/<dbname>?retryWrites=true&w=majority",
-    JWT_SECRET : "vbfyivbidvandinvd",
+    MONGOURI : "Mongo Uri",
+    JWT_SECRET : "random string",
 
 
-    SENDGRID_API : "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",
+    SENDGRID_API : "sendgrid api key",
     EMAIL: "http:localhost:3000"
 }
